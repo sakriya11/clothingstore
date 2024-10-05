@@ -1,0 +1,38 @@
+.updateCheckout{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+
+}
+.updateCheckout_container{
+
+    width: 300px;
+    height: fit-content;
+    display: flex;
+    flex-direction:column ;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    margin-bottom:5px ;
+    box-shadow: 0px 0px 5px 0.6px;
+}
+
+.updateCheckout_container  h1 {
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.updateCheckout_container  form  h5{
+    text-align: left;
+    
+}
+
+.updateCheckout_container  form  input{
+    height: 30px;
+    margin-bottom: 10px;
+    background-color: white;
+    width:98%;
+}
